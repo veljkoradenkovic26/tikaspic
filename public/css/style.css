@@ -1,0 +1,154 @@
+.header1{
+
+    background-color: red;
+
+}
+
+.meni{
+    background-color: red;
+}
+
+.logovanje{
+
+    margin-left: 620px;
+
+}
+
+.meni li a{
+
+    color: white ;
+
+}
+
+.foterinjo{
+    height: 60px;
+    background-color: red;
+
+}
+.blog{
+
+    margin-left: 160px;
+    margin-top: 50px;
+
+}
+
+
+.kolona2{
+
+    padding-bottom: 410px;
+
+}
+.read-more{
+    margin: 230px;
+}
+
+.parametar1{
+    text-align: center;
+}
+
+.logovi{
+
+    margin-top: 60px;
+    margin-bottom: 500px;
+}
+.kolona3,kolona4{
+
+    width: 540px;
+
+}
+
+.velicina{
+
+    margin-bottom: 40px;
+}
+.kolona7,kolona8{
+
+
+    width: 750px;
+
+}
+
+.regi{
+
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+
+.nav{
+    width: 57%;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+
+
+
+
+}
+.nav li a {
+    padding-top: 0px;
+    padding-left: 20px;
+    color: white;
+    background-color:red;
+    font-size: 20px;
+    text-decoration: none;
+
+
+}
+.nav li a:hover {
+    color: black;
+}
+
+.tabela{
+
+    margin-top: 20px;
+
+}
+
+#adminbody{
+    background-color: #008B8B;
+}
+
+.vesti{
+
+
+    margin-bottom: 50px;
+}
+
+.register{
+    margin-left: 15px;
+}
+.pretraga{
+
+    width: 30%;
+    float: right;
+    margin-top: -1300px;
+}
+
+.kolona45{
+
+    margin-right: 60px;
+}
+
+#forma{
+    width: 320%;
+    margin-left: -230px;
+}
+
+.profil{
+
+    margin-top: 100px;
+    padding-bottom: 120px;
+}
+
+.naslov{
+    height: 10px;
+    padding-top: 10px;
+    color: white;
+
+
+}
+.btn btn-danger{
+    padding-left: 150px;
+}

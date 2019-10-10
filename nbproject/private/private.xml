@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/pages/kontakt.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/admin/pages/tabelaKomentar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/pages/galerija.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/components/footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/app/Http/Controllers/ObavestenjeController.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/admin/pages/tabelaObavestenje.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/app/Http/Controllers/KomentarController.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/admin/pages/obavestenje.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/admin/pages/komentar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/app/Http/Controllers/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/pages/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/pages/post.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/resources/views/admin/pages/post.blade.php</file>
+            <file>file:/C:/xampp/htdocs/diplomski1/app/Http/Controllers/FrontendController.php</file>
+        </group>
+    </open-files>
+</project-private>
